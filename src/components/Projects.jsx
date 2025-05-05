@@ -7,7 +7,7 @@ export default function Projects() {
       description:
         'A personal portfolio to showcase my skills and projects. Built using HTML, CSS, and JavaScript with responsive design.',
       tech: ['React', 'Tailwind CSS'],
-      link: ""
+      link: "https://aquamarine-sunflower-a5668a.netlify.app/"
     },
     {
       title: 'Property Rental System',
