@@ -10,11 +10,11 @@ export default function Projects() {
       link: "https://aquamarine-sunflower-a5668a.netlify.app/"
     },
     {
-      title: 'Property Rental System',
+      title: 'Quiz App',
       description:
-        'A web app for managing property listings and rentals using JSP, Servlets, and MySQL. Includes full CRUD operations.',
-      tech: ['JSP', 'Servlet', 'MySQL'],
-      link: ""
+        'A dynamic web application that allows users to take quizzes on various topics. It features multiple-choice questions, a timer, and instant result display.',
+      tech: ['Html', 'CSS', 'JavaScript'],
+      link: "https://warm-stroopwafel-84f8f7.netlify.app/"
     },
     {
       title: 'Real-Time Chat Application',
