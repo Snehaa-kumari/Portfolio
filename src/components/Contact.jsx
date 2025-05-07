@@ -30,7 +30,7 @@ export default function Contact() {
         <span >Please fill out the form below to contact me</span>
 
         <div className='flex flex-col items-center justify-center mt-10'>
-          <form onSubmit={handleSubmit} className='bg-slate-100 w-120 px-8 py-6 rounded-xl'>
+        <form onSubmit={handleSubmit} className='bg-slate-100 w-full max-w-md px-8 py-6 rounded-xl shadow'>
             <h1 className='text-sm font-bold text-center md:text-2xl mt-4 mb-4'>Send Your Message</h1>
 
             <div className='mb-4'>
