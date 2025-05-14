@@ -17,6 +17,13 @@ export default function Projects() {
       link: "https://warm-stroopwafel-84f8f7.netlify.app/"
     },
     {
+      title: 'Ecommerce Website',
+      description:
+        'Designed and developed a modern e-commerce website for clothing using HTML, CSS, and JavaScript. Features include a product catalog, cart functionality, responsive layout, blog, and contact sections.',
+      tech: ['HTML', 'CSS', 'JavaScript'],
+      link: "https://extraordinary-taiyaki-c1434d.netlify.app/"
+    },
+    {
       title: 'Real-Time Chat Application',
       description:
         'Built a real-time chat app using Node.js and Socket.io, enabling users to join rooms and exchange messages instantly.',
