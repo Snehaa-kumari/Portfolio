@@ -24,6 +24,13 @@ export default function Projects() {
       link: "https://extraordinary-taiyaki-c1434d.netlify.app/"
     },
     {
+      title: 'BookScape - BookStore Website',
+      description:
+        'Developed a full-stack online bookstore using the MERN stack. BookScape allows users to browse books, view detailed descriptions, add items to the cart, and place orders. Includes user authentication, responsive design, and dynamic book management via MongoDB.',
+      tech: ['React', 'Node Js', 'Express Js', 'MongoDB'],
+      link: "https://github.com/Snehaa-kumari/BookScape"
+    },
+    {
       title: 'Real-Time Chat Application',
       description:
         'Built a real-time chat app using Node.js and Socket.io, enabling users to join rooms and exchange messages instantly.',
